@@ -7,5 +7,4 @@ Green
 Cyan
 Yellow
 Brown
-Orange
 Red
