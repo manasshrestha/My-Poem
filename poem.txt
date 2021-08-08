@@ -9,5 +9,5 @@ Unicorn
 Yellow
 Brown
 Red
-Tjese are the colors of the rainbow.
+These are the colors of the rainbow.
 And the Unicorn.
